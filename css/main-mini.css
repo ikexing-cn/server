@@ -1,21 +1,20 @@
 /*磁贴适配 当宽小于830px*/
-@media only screen and (max-width: 830px)
-{
-
-.div-tiles{/*
+@media only screen and (max-width: 830px) {
+  .div-tiles {
+    /*
     width: 100%;
     padding-bottom: 500px;
     background-color: red;
     display: inline-block;
     margin: 10px 0px 5px 0px;
     word-spacing:-1em;*/
-    
+
     width: 90%;
     display: inline-block;
     margin: 30px 0px 5px 0px;
-}
+  }
 
-.div-tiles a{
+  .div-tiles a {
     width: 100%;
     margin: 10px 0px 10px 0px;
     text-decoration: none;
@@ -25,6 +24,5 @@
     transition: all 0.3s;
     border-radius: 7px;
     padding: 10px 0px 10px 0px;
-}
-
+  }
 }
