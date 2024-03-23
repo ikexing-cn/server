@@ -32,10 +32,6 @@ body {
 
 .div-content {
   margin: 40px 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
 
 .div-content img {
